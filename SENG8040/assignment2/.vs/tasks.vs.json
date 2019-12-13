@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-assignment2",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Analyze_Tests",
+      "appliesTo": "Analyze_Tests/",
+      "type": "launch"
+    }
+  ]
+}

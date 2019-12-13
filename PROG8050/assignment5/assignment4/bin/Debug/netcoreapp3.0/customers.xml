@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomersList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Building xsi:type="Barn">
+    <Utilities />
+    <Wired />
+    <TxtInfo />
+    <Size>1000</Size>
+    <Bulbs>2</Bulbs>
+    <Outlets>2</Outlets>
+    <CustomerCC>1234567890123456</CustomerCC>
+    <T>Barn</T>
+  </Building>
+  <Building xsi:type="Barn">
+    <Utilities />
+    <Wired />
+    <TxtInfo />
+    <Size>5555</Size>
+    <Bulbs>5</Bulbs>
+    <Outlets>5</Outlets>
+    <CustomerCC>1234567890123456</CustomerCC>
+    <T>Barn</T>
+  </Building>
+</CustomersList>

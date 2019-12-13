@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="14.0">
+	<TestData Description="" Key="{9F61B08B-D39A-414F-82E2-36CA733855C3}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{66F32D5F-A5DB-420E-9CB4-3DB7CADE2692}">
+				<Data Description="Runs the &quot;ProSumV1&quot; tested application." TestedApp="ProSumV1">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Count" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="IgnoreRunning" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Timeout" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="3" Key="{5E8B8FF6-4E2A-43BA-AE2A-2A82DA30F472}">
+		<Items>
+			<Variable Name="Var1" Type="{88422C25-DDF4-4EA1-B7CC-95779A023F5D}" Local="False">
+				<DefValue IntValue="0" />
+			</Variable>
+		</Items>
+	</Variables>
+	<Parameters Key="{648084EE-4BC6-4AF5-88C3-EFC3BA84289F}" />
+</Root>

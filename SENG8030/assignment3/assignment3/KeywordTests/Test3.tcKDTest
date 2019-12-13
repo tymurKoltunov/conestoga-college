@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="14.0">
+	<TestData Description="" Key="{0A594463-C607-4343-B18A-210DF04D89D8}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Drags the &apos;%n&apos; object with the right mouse button." Action="DragR" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="1027" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="649" />
+						<Parameter Name="Param3" DefVarType="0" VarType="3" ValueType="1" ValueValue="1" />
+						<Parameter Name="Param4" DefVarType="0" VarType="3" ValueType="1" ValueValue="78" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.WINWORD.formAssignment3ReportDocxWord.panel.panelAssignment3ReportDocx.panelMicrosoftWordDocument;" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="3" Key="{9429778C-8E56-400F-9DCA-EDD4EE9B0FCE}" />
+	<Parameters Key="{E9ABD63C-8249-4B92-9B76-BE5CE732861B}" />
+</Root>

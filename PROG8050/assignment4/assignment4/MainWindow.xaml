@@ -1,0 +1,48 @@
+﻿<Window x:Class="assignment4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:assignment4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width ="Auto"/>
+                    <ColumnDefinition Width ="Auto"/>
+                    <ColumnDefinition Width ="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Building type(Barn/House/Garage)" Grid.Row="0" Grid.Column ="0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <TextBox x:Name="TxtType" Text="" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Center" Width="150" Grid.Row="0" Grid.Column ="1" TextChanged="TxtType_TextChanged"/>
+                <Label Content="Size of building[1000-50000]" Grid.Row="1" Grid.Column ="0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <TextBox x:Name="TxtSize" Text="" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Center" Width="150" Grid.Row="1" Grid.Column ="1" TextChanged="TxtSize_TextChanged"/>
+                <Label Content="Number of bulbs required[1-20]" Grid.Row="2" Grid.Column ="0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <TextBox x:Name="TxtBulbs" Text="" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Center" Width="150" Grid.Row="2" Grid.Column ="1" TextChanged="TxtBulbs_TextChanged"/>
+                <Label Content="Number of outlets required[1-50]" Grid.Row="3" Grid.Column ="0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <TextBox x:Name="TxtOutlets" Text="" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Center" Width="150" Grid.Row="3" Grid.Column ="1" TextChanged="TxtOutlets_TextChanged"/>
+                <Label Content="Credit card[16 digits, no spaces]" Grid.Row="4" Grid.Column ="0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <TextBox x:Name="TxtCC" Text="" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Center" Width="150" Grid.Row="4" Grid.Column ="1" TextChanged="TxtCC_TextChanged"/>
+                <Button x:Name="BtnAdd" Content="Add" Grid.Column="0" Grid.Row="5" Width="100" Click="BtnAdd_Click"/>
+                <Button x:Name="BtnDisplay" Content="Display" Grid.Column="1" Grid.Row="5" Width="100" Click="BtnDisplay_Click"/>
+                <Button x:Name="BtnExit" Content="Exit" Grid.Column="2" Grid.Row="1" Grid.RowSpan="3" Margin="200,0,0,0" Width="100" Click="BtnExit_Click"/>
+                <Label Content="Information is sorted by building size:" Grid.Row="5" Grid.Column="2"/>
+            </Grid>
+            <Border Width="750" Height="250" Margin="0,10,0,0" BorderThickness="1" BorderBrush="Black">
+                <ScrollViewer>
+                    <TextBlock x:Name="TB" TextWrapping="Wrap"/>
+                </ScrollViewer>
+            </Border>
+        </StackPanel>
+    </Grid>
+</Window>

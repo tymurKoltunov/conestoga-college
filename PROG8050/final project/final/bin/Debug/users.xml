@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UserList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item xsi:type="Furniture">
+    <ItemName>qwe</ItemName>
+    <ItemDescription>qwe</ItemDescription>
+    <Type>Furniture</Type>
+    <Condition>Used</Condition>
+    <SpecificCondition>Is wooden</SpecificCondition>
+    <FirstName>qwe</FirstName>
+    <LastName>qweqwe</LastName>
+    <CreditCard>1234567890123456</CreditCard>
+    <Price>343</Price>
+  </Item>
+  <Item xsi:type="Furniture">
+    <ItemName>fgfgfgfgfg</ItemName>
+    <ItemDescription>fgfgfgfg</ItemDescription>
+    <Type>Furniture</Type>
+    <Condition>Damaged</Condition>
+    <SpecificCondition>Is not wooden</SpecificCondition>
+    <FirstName>qwe</FirstName>
+    <LastName>qwe</LastName>
+    <CreditCard>1234567890123344</CreditCard>
+    <Price>343</Price>
+  </Item>
+  <Item xsi:type="Furniture">
+    <ItemName>5656</ItemName>
+    <ItemDescription>rdrthdfghdfghfdghfdghdfghfdghdgfhdfghfghfghfdghfdghdgfhdfghfdghdgfhdfghdfghdfgh</ItemDescription>
+    <Type>Furniture</Type>
+    <Condition>Used</Condition>
+    <SpecificCondition>Is wooden</SpecificCondition>
+    <FirstName>fgf</FirstName>
+    <LastName>fgfg</LastName>
+    <CreditCard>1234567890123456</CreditCard>
+    <Price>656</Price>
+  </Item>
+  <Item xsi:type="Appliances">
+    <ItemName>sdsa</ItemName>
+    <ItemDescription>asdasd</ItemDescription>
+    <Type>Appliances</Type>
+    <Condition>Damaged</Condition>
+    <SpecificCondition>Is Refurbished</SpecificCondition>
+    <FirstName>sdfsdf</FirstName>
+    <LastName>sdfsf</LastName>
+    <CreditCard>0987654321654321</CreditCard>
+    <Price>435</Price>
+  </Item>
+  <Item xsi:type="Furniture">
+    <ItemName>fd</ItemName>
+    <ItemDescription>sdfasdfsadfascxzvxzcvxczvxzcvxczvxzcvxzcvxzcvxz</ItemDescription>
+    <Type>Furniture</Type>
+    <Condition>New</Condition>
+    <SpecificCondition>Is wooden</SpecificCondition>
+    <FirstName>adas</FirstName>
+    <LastName>asdas</LastName>
+    <CreditCard>1234567890654321</CreditCard>
+    <Price>423</Price>
+  </Item>
+  <Item xsi:type="Furniture">
+    <ItemName>dfadsf</ItemName>
+    <ItemDescription>sadfsadfsa</ItemDescription>
+    <Type>Furniture</Type>
+    <Condition>Damaged</Condition>
+    <SpecificCondition>Is not wooden</SpecificCondition>
+    <FirstName>sdfsadsadf</FirstName>
+    <LastName>dsfasdfsadf</LastName>
+    <CreditCard>0987654321654321</CreditCard>
+    <Price>343</Price>
+  </Item>
+</UserList>

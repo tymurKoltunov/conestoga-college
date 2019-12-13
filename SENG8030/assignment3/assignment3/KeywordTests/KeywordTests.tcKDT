@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<child name="Running_check" key="{30C4055D-A4C2-42C8-AF42-EDAADE955C42}" path="Running_check.tcKDTest" />
+		<child name="Initial_screen_check" key="{869A5611-6D15-4C27-A142-774E9A681660}" path="Initial_screen_check.tcKDTest" />
+		<child name="About_screen_check" key="{4E802757-B426-4807-AACA-79622B35C4F6}" path="About_screen_check.tcKDTest" />
+		<child name="AboutScreen_buttons_check" key="{89F325BC-5601-4465-AEE0-EBBB7E79F1AB}" path="AboutScreen_buttons_check.tcKDTest" />
+		<child name="ClearButton_check" key="{761BD81C-7196-4EEA-97D8-8E0B61A0F595}" path="ClearButton_check.tcKDTest" />
+		<child name="PickTwoRandomNumbers_Button_check" key="{56F5AAC0-EC56-4C73-80D4-E32E0B2152FB}" path="PickTwoRandomNumbers_Button_check.tcKDTest" />
+		<child name="AddEmUp_Button_check_with_two_valid_integers" key="{3030A1AF-E51F-4DC3-AD59-F26A71DCF33C}" path="AddEmUp_Button_check_with_two_valid_integers.tcKDTest" />
+		<child name="AddEmUp_Button_check_with_one_empty_field_expectedError" key="{BAABC5AB-37CF-4F21-A5C7-08752C04C921}" path="AddEmUp_Button_check_with_one_empty_field_expectedError.tcKDTest" />
+		<child name="RunTimeError_check_integerGreaterThan32768" key="{4FDC9A3C-0B52-403C-A7E4-9CF0712AC912}" path="RunTimeError_check_integerGreaterThan32768.tcKDTest" />
+		<child name="NumScrollOne_check" key="{1C7909D2-EC71-48C5-BA66-4F92BAD66464}" path="NumScrollOne_check.tcKDTest" />
+		<child name="NumScrollTwo_check" key="{AA07FBC5-8C64-455D-8714-8871A9074179}" path="NumScrollTwo_check.tcKDTest" />
+		<child name="Suite" key="{32A1AE32-1AAE-4A1B-B5F5-ED3E463BCCDA}" path="Suite.tcKDTest" />
+		<child name="InitialScreenCheck_WithoutRunning_and_ClosingApp" key="{670A83E4-02FC-4AEA-9CFA-F626C6971F8B}" path="InitialScreenCheck_WithoutRunning_and_ClosingApp.tcKDTest" />
+	</children>
+</Root>

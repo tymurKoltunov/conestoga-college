@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeCalculator_division_mut", "AwesomeCalculator\AwesomeCalculator_division_mut.csproj", "{A80159D4-C86F-4FD5-BC9E-C2B3BF4B4070}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{76EFA7E2-59CC-426C-93C6-0BEB09F1B18A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A80159D4-C86F-4FD5-BC9E-C2B3BF4B4070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80159D4-C86F-4FD5-BC9E-C2B3BF4B4070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80159D4-C86F-4FD5-BC9E-C2B3BF4B4070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80159D4-C86F-4FD5-BC9E-C2B3BF4B4070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76EFA7E2-59CC-426C-93C6-0BEB09F1B18A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76EFA7E2-59CC-426C-93C6-0BEB09F1B18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76EFA7E2-59CC-426C-93C6-0BEB09F1B18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76EFA7E2-59CC-426C-93C6-0BEB09F1B18A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62F71E74-B953-4283-A4E2-C2F078B42763}
+	EndGlobalSection
+EndGlobal

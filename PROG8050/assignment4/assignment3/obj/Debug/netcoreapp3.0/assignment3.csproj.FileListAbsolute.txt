@@ -1,0 +1,11 @@
+D:\conestoga-college\PROG8050\assignment3\bin\Debug\netcoreapp3.0\assignment3.exe
+D:\conestoga-college\PROG8050\assignment3\bin\Debug\netcoreapp3.0\assignment3.deps.json
+D:\conestoga-college\PROG8050\assignment3\bin\Debug\netcoreapp3.0\assignment3.runtimeconfig.json
+D:\conestoga-college\PROG8050\assignment3\bin\Debug\netcoreapp3.0\assignment3.runtimeconfig.dev.json
+D:\conestoga-college\PROG8050\assignment3\bin\Debug\netcoreapp3.0\assignment3.dll
+D:\conestoga-college\PROG8050\assignment3\bin\Debug\netcoreapp3.0\assignment3.pdb
+D:\conestoga-college\PROG8050\assignment3\obj\Debug\netcoreapp3.0\assignment3.csprojAssemblyReference.cache
+D:\conestoga-college\PROG8050\assignment3\obj\Debug\netcoreapp3.0\assignment3.AssemblyInfoInputs.cache
+D:\conestoga-college\PROG8050\assignment3\obj\Debug\netcoreapp3.0\assignment3.AssemblyInfo.cs
+D:\conestoga-college\PROG8050\assignment3\obj\Debug\netcoreapp3.0\assignment3.dll
+D:\conestoga-college\PROG8050\assignment3\obj\Debug\netcoreapp3.0\assignment3.pdb

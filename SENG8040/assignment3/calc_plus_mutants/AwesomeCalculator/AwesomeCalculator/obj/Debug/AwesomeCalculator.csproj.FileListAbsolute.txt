@@ -1,0 +1,27 @@
+c:\users\balje\documents\visual studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.exe.config
+c:\users\balje\documents\visual studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.exe
+c:\users\balje\documents\visual studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.pdb
+c:\users\balje\documents\visual studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.csprojResolveAssemblyReference.cache
+c:\users\balje\documents\visual studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.exe
+c:\users\balje\documents\visual studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.pdb
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\bin\Debug\nunit.framework.dll
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculator\bin\Debug\nunit.framework.xml
+C:\Users\bbilkhu\Downloads\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.exe.config
+C:\Users\bbilkhu\Downloads\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.exe
+C:\Users\bbilkhu\Downloads\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.pdb
+C:\Users\bbilkhu\Downloads\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\bin\Debug\nunit.framework.dll
+C:\Users\bbilkhu\Downloads\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\bin\Debug\nunit.framework.xml
+C:\Users\bbilkhu\Downloads\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.csprojAssemblyReference.cache
+C:\Users\bbilkhu\Downloads\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\bbilkhu\Downloads\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.csproj.CopyComplete
+C:\Users\bbilkhu\Downloads\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.exe
+C:\Users\bbilkhu\Downloads\AwesomeCalculator\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.pdb
+D:\conestoga-college\SENG8040\assignment3\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.exe.config
+D:\conestoga-college\SENG8040\assignment3\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.exe
+D:\conestoga-college\SENG8040\assignment3\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.pdb
+D:\conestoga-college\SENG8040\assignment3\AwesomeCalculator\AwesomeCalculator\bin\Debug\nunit.framework.dll
+D:\conestoga-college\SENG8040\assignment3\AwesomeCalculator\AwesomeCalculator\bin\Debug\nunit.framework.xml
+D:\conestoga-college\SENG8040\assignment3\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.csprojAssemblyReference.cache
+D:\conestoga-college\SENG8040\assignment3\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.csproj.CopyComplete
+D:\conestoga-college\SENG8040\assignment3\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.exe
+D:\conestoga-college\SENG8040\assignment3\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.pdb
